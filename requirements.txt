@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain_core 
+langchain_groq 
+langchain_community
+tavily-python
+python-dotenv
+fastapi
+youtube-transcript-api
+youtube-search-python
