@@ -6,5 +6,6 @@ langchain_community
 tavily-python
 python-dotenv
 fastapi
+uvicorn
 youtube-transcript-api
 youtube-search-python
